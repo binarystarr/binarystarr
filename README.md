@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Richard and i've been a web professional for 2 decades. I'm a full stack developer working in London for spine.agency.
+
 <!--
 **binarystarr/binarystarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
