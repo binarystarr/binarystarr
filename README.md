@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Richard and I've been a web professional for 2 decades, specialising in Wordpress.
+I'm Richard and I've been a web professional for 2 decades, an export Wordpress developer but now moving to a js stack to develop jamstack sites.
 
 <!--
 **binarystarr/binarystarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
